@@ -4,7 +4,7 @@ Esta é uma versão inicial para monitoramento e sugestões de compra/venda de b
 
 Maiores informações: https://www.mercadobitcoin.com.br/api/
 
-Gostou do trabalho? Deixa ai uma gorjeta ;) @ 1EXC8qnt8mwnskJ9EXBLg97Pp9cSEyqg7b**
+Gostou do trabalho? Deixa ai uma gorjeta ;)  **1EXC8qnt8mwnskJ9EXBLg97Pp9cSEyqg7b**
 
 Exemplo de informações retornadas no console executando o arquivo sample.py:
 ```
